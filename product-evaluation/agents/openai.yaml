@@ -1,0 +1,4 @@
+interface:
+  display_name: "通用产品评估"
+  short_description: "从用户任务、业务价值与完整体验评审产品，给出证据、优先改进和验收方案"
+  default_prompt: "使用 $product-evaluation 评估这个产品方案或开发复盘，明确用户任务与成功标准，给出有证据的关键问题、优先改进和验证方法。"
